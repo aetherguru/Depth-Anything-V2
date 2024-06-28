@@ -1,5 +1,4 @@
 <div align="center">
-<h2>Depth Anything V2</h2>
 <hr>
 This is a custom fork of Depth Anything V2 with an additional script "dmap_maker_gui.py"
 <br>
