@@ -1,30 +1,31 @@
 <div align="center">
 <hr>
-This is a custom fork of Depth Anything V2 with an additional script "dmap_maker_gui.py"
+This is a custom fork of Depth Anything V2 with an additional script **"dmap_maker_gui.py"**.
 <br>
-The script batch converts all video clips from input_folder into full resolution depth maps.
+The script batch converts all video clips from `input_folder` into full resolution depth maps.
 <hr>
 </div>
-Required Dependencies (nvidia):
-<div align="center">
+
+## Required Dependencies (NVIDIA):
 
 ```bash
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
-    
+
 ```bash
 pip3 install -U xformers --index-url https://download.pytorch.org/whl/cu121
 ```
 
 <hr>
-<br>
-Example Usage:
+
+## Example Usage:
 
 <div align="center">
 
 ```bash
 python dmap_maker_gui.py
 ```
+
 </div>
 
 <hr>
