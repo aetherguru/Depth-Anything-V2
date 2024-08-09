@@ -2,8 +2,5 @@ gradio_imageslider~=0.0.20
 gradio==4.29.0
 matplotlib~=3.9.0
 opencv-python~=4.10.0.84
-torch~=2.3.0+cu121
-torchvision~=0.18.1
 numpy~=1.26.4
 pillow~=10.3.0
-xformers~=0.0.26.post1
