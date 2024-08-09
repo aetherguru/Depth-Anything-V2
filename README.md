@@ -18,7 +18,6 @@ pip3 install -U xformers --index-url https://download.pytorch.org/whl/cu121
 </b>
 <hr>
 <br>
-<div align="center">
 Example Usage:
 <div align="center">
 
