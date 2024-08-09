@@ -26,6 +26,7 @@ Example Usage:
 python dmap_maker_gui.py
 ```
 </div>
+<hr>
 
 <h1>Depth Anything V2</h1>
 
