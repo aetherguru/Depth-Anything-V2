@@ -15,11 +15,9 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 ```bash
 pip3 install -U xformers --index-url https://download.pytorch.org/whl/cu121
 ```
-
 </b>
 <hr>
-<br><br><br>
-
+<br>
 <div align="center">
 Example Usage:
 <div align="center">
