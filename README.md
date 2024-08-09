@@ -5,13 +5,6 @@ This is a custom fork of Depth Anything V2 with an additional script "dmap_maker
 The script batch converts all video clips from input_folder into full resolution depth maps.
 <hr>
 </div>
-Example Usage:
-<div align="center">
-
-```bash
-python dmap_maker_gui.py
-```
-</div>
 Required Dependencies (nvidia):
 <div align="center">
     
@@ -28,6 +21,15 @@ pip3 install -U xformers --index-url https://download.pytorch.org/whl/cu121
 <br><br><br>
 
 <div align="center">
+    
+Example Usage:
+<div align="center">
+
+```bash
+python dmap_maker_gui.py
+```
+</div>
+
 <h1>Depth Anything V2</h1>
 
 [**Lihe Yang**](https://liheyoung.github.io/)<sup>1</sup> · [**Bingyi Kang**](https://bingykang.github.io/)<sup>2&dagger;</sup> · [**Zilong Huang**](http://speedinghzl.github.io/)<sup>2</sup>
